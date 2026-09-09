@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sdnpublishing.github.io/author-waylen-d-govall/sitemap.xml
